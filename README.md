@@ -1,2 +1,2 @@
 # Penguin-mass-prediction
-A linear regression model implemented in R that predicts the mass of penguins.
+Two linear regression models implemented in R that predict the mass of penguins. Both models are compared for accuracy and model B is superior due to factoring in more features.
